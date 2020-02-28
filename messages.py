@@ -54,10 +54,10 @@ limite_excedido: str = f.RED + \
     "Limite de pesquisas excedido. Por favor tente novamente mais tarde. Aperte ENTER para sair." + f.RESET
 
 mensagem_erro: str = f.RED + \
-    "Um erro ocorreu e um log foi salvo. Por favor, infomar Davi. Aperte ENTER para sair" + f.RESET
+    "Um erro ocorreu e um log foi salvo. Aperte ENTER para sair" + f.RESET
 
 ctrl_c: str = f.RED + \
     "Por favor não aperte Ctrl + C. Aperte ENTER para sair." + f.RESET
 
-
-user_agent: str = "Baixador de Letras - BOT v. 1.0 (daviamsilva@hotmail.com)"
+# Substitua pelo seu
+user_agent: str = "Baixador de Letras - BOT v. 1.0"
